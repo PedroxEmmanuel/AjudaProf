@@ -1,0 +1,67 @@
+h1{
+    font-family: garamond;
+    font-size: 3em;
+    color: black;
+ }
+ 
+ h2{
+    font-family: Brush Script MT;
+    font-size: 1.8em;
+    color: black;
+ }
+ 
+ hr{
+    background-color: black;
+    height: 5px;
+    border: none;
+ }
+ 
+ li{
+    padding: 10px;
+ }
+ 
+ 
+ a{
+     padding: 20px;
+    font-family: garamond;
+    font-size: 3em;
+    top:50%;
+ }
+ 
+ a:link{
+    text-decoration:none;
+    color: gray;
+ }
+ 
+ a:hover{
+    font-weight: bold;
+ }
+ 
+ table{
+    padding: 20px;
+    font-family: garamond;
+    font-size: 1.2em;
+    color: black;
+    border-collapse: collapse;
+ }
+ 
+ th, td {
+    border: 1px solid black;
+    padding: 7px;
+ }
+ 
+ select, input[type=text], input[type=password]{
+    font-family: garamond;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: black;
+ }
+ 
+ button{
+    font-family: garamond;
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+    padding: 7px;
+ }
+ 
